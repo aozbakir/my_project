@@ -8,8 +8,3 @@ The `docs/` folder contains supporting materials for this repository,
 including the presentation used to demonstrate the Git workflow.  
 These documents provide additional context, examples, and guidance  
 to help learners understand each step of the project.
-I speak without a mouth
-and hear without ears
-I have nobody, but
-I come alive with wind
-This is an incorrect line
