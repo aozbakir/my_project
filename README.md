@@ -9,13 +9,5 @@ including the presentation used to demonstrate the Git workflow.
 These documents provide additional context, examples, and guidance  
 to help learners understand each step of the project.
 
-## How to run this code
-```python
-import pandas as pd
-
-...
-```
-
 I strongly recommend all the participants to try at least one
 commit to their sandbox project.
-
